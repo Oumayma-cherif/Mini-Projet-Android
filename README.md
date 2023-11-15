@@ -21,8 +21,9 @@ Réclamations à l'Administrateur
 Participation aux Événements
 
 Gestion des Utilisateurs
+Module de Récompenses
 
-Module de Récompenses# Mini-Projet-Android
+
 <img width="334" alt="ecogive" src="https://github.com/Oumayma-cherif/Mini-Projet-Android/assets/61600395/b0411a3f-6b31-42d9-a26d-48be472d816b">
 <img width="334" alt="Sans titreecoo" src="https://github.com/Oumayma-cherif/Mini-Projet-Android/assets/61600395/d6c171c3-9af1-48fd-9ff8-fce485548ed6">
 <img width="319" alt="eco" src="https://github.com/Oumayma-cherif/Mini-Projet-Android/assets/61600395/2fbc1cf6-7472-419e-b47b-ea85d9b17a0e">
